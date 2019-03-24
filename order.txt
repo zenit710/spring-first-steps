@@ -1,0 +1,10 @@
+{
+    "amount": 1000,
+    "positions": [
+        {
+            "price": 1000,
+            "quantity": 1000,
+            "name": "Apples"
+        }
+    ]
+}
